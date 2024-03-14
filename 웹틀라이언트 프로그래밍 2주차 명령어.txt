@@ -1,0 +1,11 @@
+node.js
+비주얼 스튜디어코드(터미널 사용해서 명령어 입력)
+npm 다운로드
+
+
+npm install -g create-react-app
+npx create-react-app my-app
+
+cd my-app
+
+npm start
