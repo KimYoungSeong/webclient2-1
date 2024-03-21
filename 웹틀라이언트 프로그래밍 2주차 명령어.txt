@@ -9,3 +9,6 @@ npx create-react-app my-app
 cd my-app
 
 npm start
+
+npm run build
+(터미널 띄운 상태에서 컨트롤 c 누르면 서버가 꺼진다 서버가 꺼진 상태에서 만들어야 빌드 폴더를 만들 수 있음)
