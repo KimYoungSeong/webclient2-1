@@ -18,7 +18,7 @@ npx serve -s build
 npm serve -s [디렉토리 이름] 만든 디렉토리로 서버를 구동시키는 명령어
 npm run [디렉토리 이름]를 한번 해야지 할 수있는 명령어
 
-npx create-react-app my-app 5주차 폴더 이름
+npx create-react-app my-app 폴더 이름
 
 중간고사 시험범위
 전체 128 페이지
