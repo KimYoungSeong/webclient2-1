@@ -20,9 +20,8 @@ npm run [디렉토리 이름]를 한번 해야지 할 수있는 명령어
 
 npx create-react-app my-app 폴더 이름
 
-중간고사 시험범위
-전체 128 페이지
-실제 이론 79페이지
-
 리액트 라우터 인스톨 명령어
 npm install react-router-dom
+
+리액트 스타일드 컴포넌트 명령어
+npm install styled-components
